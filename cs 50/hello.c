@@ -1,4 +1,7 @@
 #include <stdio.h>
 #include <cs50.h>
 
-printf("hello !");
+void main(int)
+{
+    printf("hello !");
+}
