@@ -1,15 +1,12 @@
 #include<stdio.h>
 #include<cs50.h>
+#include<string.h>
 
 int main(void){
 
     string name = get_string("nam: ");
 
-    int n =0;
+    int n= strlen(name);
+    printf("\n %i ", n);
 
-    while( name[n] != '\0' )
-    {
-        n++;
-    }
-    printf("%i \n  ",n);
 }
