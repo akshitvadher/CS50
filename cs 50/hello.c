@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<cs50.h>
 
-void main()
+int main (void)
 {
-    
+    char c1+
 }
