@@ -3,9 +3,6 @@
 
 int main (void)
 {
-    char c1 = 'H';
-    char c2 = 'I';
-    char c3 = '!';
-
-    printf()
+    string s = "HI!";
+    printf(" %c %c %c \n ", string)
 }
