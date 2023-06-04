@@ -25,7 +25,7 @@ int main(void)
 
      //how many yreas to reach the goal
 
-     int = year =0;
+     int year =0;
 
      while( start < end )
      {
