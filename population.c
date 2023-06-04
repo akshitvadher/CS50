@@ -25,6 +25,8 @@ int main(void)
 
      //how many yreas to reach the goal
 
+
+
      //every year 1/3 born  && 1/4 pass away
 
 
