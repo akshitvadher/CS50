@@ -25,10 +25,16 @@ int main(void)
 
      //how many yreas to reach the goal
 
+     int = year =0;
 
+     while( start < end )
+     {
+         start += start /12 ;
+         year++;
 
-     //every year 1/3 born  && 1/4 pass away
+     }
 
+     printf(" no of year  : %i \n",year);
 
 
 }
