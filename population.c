@@ -4,10 +4,8 @@
 int main(void)
 {
 
-      int n= get_int("Enter noof llamas :");
-      int al=(n/3);
-      
+     // prompt of sstart llamas
 
-      printf(" llamas are ")
+     //prompt of end llamas
 
 }
