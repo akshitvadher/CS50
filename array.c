@@ -1,20 +1,24 @@
-#include <stdio.h>
 #include <cs50.h>
+#include <stdio.h>
 
 int main(void)
 {
 
-        int n;
-     do{
-         get_int(" size of array :");
-       }
-       while( n < 1);
+    int lenth;
+    do
+    {
+        get_int(" lenth of array :");
+    }
+    while (lenth < 1);
 
-    int a[n];
+    int a[lenth];
 
-     for(int i = 0 ; i < n ; i++)
-        {
-            printf("\n %i", a[i]);
-        }
+    a[0]=1;
+    printf("%i \n",a[0]);
 
+    for (int i = 0 ; i < lenth ; i++)
+    {
+        a[i]= 2 * a[i-1];
+        printf("%i \n",a[i]);
+    }
 }
