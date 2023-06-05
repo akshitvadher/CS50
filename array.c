@@ -20,7 +20,7 @@ int main(void)
     for (int i = 0; i < l ; i++)
     {
 
-     printf("hi ");
+     printf("hi "~);
         // a[i]= 2 * a[i-1];
         // printf("%i \n", a[i]);
     }
