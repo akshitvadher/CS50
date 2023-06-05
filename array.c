@@ -4,19 +4,19 @@
 int main(void)
 {
 
-    int lenth;
+    int len;
     do
     {
-        get_int(" lenth of array :");
+        get_int(" len of array :");
     }
-    while (lenth < 1);
+    while (len < 1);
 
-    int a[lenth];
+    int a[len];
 
     a[0]=1;
     printf("%i \n",a[0]);
 
-    for (int i = 0 ; i < lenth ; i++)
+    for (int i = 0 ; i < len ; i++)
     {
         a[i]= 2 * a[i-1];
         printf("%i \n",a[i]);
