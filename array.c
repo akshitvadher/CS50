@@ -7,9 +7,9 @@ int main(void)
 
     int a[n];
 
-     for(imt i = 0 ; i < n ; i++)
+     for(int i = 0 ; i < n ; i++)
         {
-            printf()
+            printf("\n %i", a[i]);
         }
 
 }
