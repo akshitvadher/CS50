@@ -9,7 +9,7 @@ int main(void)
     {
         get_int(" len of array :");
     }
-    while (len < 1);
+    while(len < 1);
 
     int a[len];
 
