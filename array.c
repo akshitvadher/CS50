@@ -4,7 +4,7 @@
 int main(void)
 {
 
-    int l=1;
+    int l=0;
     do
     {
         get_int(" l of array :");
