@@ -3,7 +3,12 @@
 
 int main(void)
 {
-    int n = get_int(" size of array :");
+
+        int n;
+     do{
+         get_int(" size of array :");
+       }
+       while( n < 1);
 
     int a[n];
 
