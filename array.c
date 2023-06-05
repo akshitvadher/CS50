@@ -13,10 +13,11 @@ int main(void)
 
     int a[l];
 
+
     a[0]=1;
     printf("%i \n",a[0]);
 
-    for (int i = 0 ; i < l ; i++)
+    for (int i = 1 ; i < l ; i++)
     {
         a[i]= 2 * a[i-1];
         printf("%i \n",a[i]);
