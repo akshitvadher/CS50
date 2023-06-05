@@ -19,7 +19,9 @@ int main(void)
 
     for (int i = 0; i < l ; i++)
     {
-        a[i]= 2 * a[i-1];
-        printf("%i \n",a[i]);
+
+     printf("hi ");
+        // a[i]= 2 * a[i-1];
+        // printf("%i \n", a[i]);
     }
 }
