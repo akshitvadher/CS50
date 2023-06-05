@@ -9,6 +9,7 @@ void print_bulb(int bit);
 int main(void)
 {
     // TODO
+    printf("hrllereiojtgwt");
 }
 
 void print_bulb(int bit)
