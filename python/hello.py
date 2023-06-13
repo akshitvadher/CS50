@@ -1,5 +1,5 @@
 from cs50  import get_string
 
- ans = get_string("Name :")
+ answer = get_string("Name ")
 
-print("hello, ans")
+print("hello, answer")
