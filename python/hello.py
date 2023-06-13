@@ -1,3 +1,5 @@
-import cs50.
+from cs50  import get_string
 
-print("hello,world")
+ ans = get_string("Name :")
+
+print("hello, ans")
