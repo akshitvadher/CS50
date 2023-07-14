@@ -3,8 +3,8 @@ b=int(input("Enter B :"))
 
 print("Arithmetic oprations.......")
 
-print("\nSum of A and B :",a+b)
-print("\nSum of A and B :",a+b)
-print("\nSum of A and B :",a+b)
-print("\nSum of A and B :",a+b)
-print("\nSum of A and B :",a+b)
+print("\nAdditon of A and B :",a+b)
+print("Subtraction of A and B :",a-b)
+print("Multiplication of A and B :",a*b)
+print("Divison of A and B :",a/b)
+print("modulo of A and B :",a%b)
