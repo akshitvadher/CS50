@@ -1,10 +1,10 @@
 a=int(input("Enter A :"))
 b=int(input("Enter B :"))
 
-print("Arithmetic oprations.......")
+print("\nArithmetic opration between A and B .......")
 
-print("\nAdditon of A and B :",a+b)
-print("Subtraction of A and B :",a-b)
-print("Multiplication of A and B :",a*b)
-print("Divison of A and B :",a/b)
-print("modulo of A and B :",a%b)
+print("Additon is :",a+b)
+print("Subtraction is :",a-b)
+print("Multiplication is :",a*b)
+print("Divison is :",a/b)
+print("modulo is :",a%b)
