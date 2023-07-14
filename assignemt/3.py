@@ -1,3 +1,3 @@
 PI=3.14
 r=int(input('Enter area of RDIOUS :'))
-float(print("Area of circula :",PI*r*r))
+print("Area of circula :",PI*r*r)
