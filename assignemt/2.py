@@ -3,4 +3,4 @@ b=int(input("Enter B :"))
 
 print("Arithmetic oprations.......")
 
-print("Sum of A and B :",a+b)
+print("\nSum of A and B :",a+b)
