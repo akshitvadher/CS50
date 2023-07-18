@@ -1,1 +1,3 @@
-hello
+HELLO
+THIS IS CS50
+50
