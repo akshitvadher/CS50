@@ -1,4 +1,4 @@
 HELLO
-this is cs50
+THIS IS CS50
 50
 
