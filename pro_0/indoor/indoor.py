@@ -1,3 +1,5 @@
 HELLO
-THIS IS CS50
-50
+
+print("this is cs50")
+
+submit50 cs50/problems/2022/python/indoor
