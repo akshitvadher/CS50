@@ -2,16 +2,13 @@ n = input(" What is the answer to the Great Question of Life, the Universe and E
 
 n.strip()
 
-if ( n == "42 "):
+if  n.strip == "42 ":
     print("Yes ")
 
-elif( n == 'forty-two' ):
+elif n.lower == 'forty-two' :
     print("Yes ")
 
-elif( n == 'forty two' ):
-    print("Yes ")
-
-elif( n == 'FoRty TwO' ):
+elif n.lower == 'forty two' :
     print("Yes ")
 
 else :
