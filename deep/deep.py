@@ -1,4 +1,6 @@
-n = strip(input(" What is the answer to the Great Question of Life, the Universe and Everything ? "))
+n = input(" What is the answer to the Great Question of Life, the Universe and Everything ? ")
+
+n.strip()
 
 if ( n == '42' ):
     print("Yes ")
