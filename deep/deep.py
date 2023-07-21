@@ -8,3 +8,6 @@ elif( n == 'forty-two' ):
 
 elif( n == 'forty two' ):
     print("Yes ")
+
+else :
+    print("No")
