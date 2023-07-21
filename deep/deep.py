@@ -9,5 +9,8 @@ elif( n == 'forty-two' ):
 elif( n == 'forty two' ):
     print("Yes ")
 
+elif( n == 'FoRty TwO' ):
+    print("Yes ")
+
 else :
     print("No")
