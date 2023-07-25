@@ -1,0 +1,1 @@
+'''Write a python program to find out the sum of digits of a given number.'''

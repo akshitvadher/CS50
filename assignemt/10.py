@@ -2,3 +2,4 @@
 
 list =['rajkot','surat','jamnager','diu','daman']
 
+print( str([1]) )
