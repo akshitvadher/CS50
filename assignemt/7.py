@@ -5,4 +5,4 @@
 
 list =['rajkot','surat','jamnager','diu','daman']
 length=len(list)
-print("This is list of :"+ str(length) + "Eelements")
+print("This is list of : "+ str(length) + " Eelements")
