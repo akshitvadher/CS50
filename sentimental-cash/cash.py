@@ -1,6 +1,6 @@
-from cs50 import
+from cs50 import get_float
 
-while Ture:
+while True:
     cents = get_float("Charge: ")
     if cents > 0:
         break
