@@ -1,1 +1,4 @@
-from cs50
+from cs50 import
+
+while Ture:
+    
